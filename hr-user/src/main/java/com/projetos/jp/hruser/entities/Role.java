@@ -1,4 +1,4 @@
-package com.projetos.jp.hrhruser.entities;
+package com.projetos.jp.hruser.entities;
 
 import java.io.Serializable;
 
