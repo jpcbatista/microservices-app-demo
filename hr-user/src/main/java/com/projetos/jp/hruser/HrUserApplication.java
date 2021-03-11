@@ -1,4 +1,4 @@
-package com.projetos.jp.hrhruser;
+package com.projetos.jp.hruser;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
