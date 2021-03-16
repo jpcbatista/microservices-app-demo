@@ -6,4 +6,5 @@ Esse projeto foi realizado no decorrer do curso: Microsserviços Java com Spring
 
 # Estrutura da aplicação
 
-![Apresentação1](https://user-images.githubusercontent.com/72103255/111387798-1245b100-868d-11eb-9330-ac9d6579ac8c.jpg)
+![Apresentação1](https://user-images.githubusercontent.com/72103255/111388435-01496f80-868e-11eb-9896-c644923af100.jpg)
+
